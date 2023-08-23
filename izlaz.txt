@@ -1,0 +1,10 @@
+Stanje u lukama pre obrade Bay1 = 100, Bay2 = 100, Bay3 = 125, Bay4 = 150
+Kran1 pretovario Bay1,Kran2 pretovario Bay4
+Stanje posle obrade Bay1 = 87, Bay2 = 100, Bay3 = 125, Bay4 = 137
+Kran1 pretovario Bay3, Kran2 pretovario Bay4
+Stanje posle obrade Bay1 = 87, Bay2 = 100, Bay3 = 0, Bay4 = 12
+Kran1 pretovario Bay1,Kran2 pretovario Bay2
+Stanje posle obrade Bay1 = 0, Bay2 = 13, Bay3 = 0, Bay4 = 12
+Kran1 pretovario Bay2,Kran2 pretovario Bay4
+Kran 1 je pretovario 238, dok je kran 2 pretovario 237
+Ukupno vreme pretovarivanja 9.52h
